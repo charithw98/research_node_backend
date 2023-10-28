@@ -5,7 +5,8 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon ./app.js localhost 4200"
+    "start": "nodemon ./app.js localhost 4200",
+    "build":"npm i"
   },
   "author": "",
   "license": "ISC",
